@@ -29,6 +29,9 @@ def part1():
     print(int(gamma, 2)*int(epsilon, 2))
 
 
+def part2():
+    pass
+
 
 if __name__ == '__main__':
     part1()
